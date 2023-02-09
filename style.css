@@ -353,6 +353,12 @@ img {
     align-items: center;
     padding: 10px;
 	}
-	}
 	
+	.contact-form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 10px;
+	}
+	}
 	
