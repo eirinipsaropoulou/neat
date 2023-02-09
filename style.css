@@ -354,11 +354,13 @@ img {
     padding: 10px;
 	}
 	
-	.contact-form{
-    display: flex;
+	.contact-form {
     flex-direction: column;
-    flex-wrap: wrap;
-    padding: 10px;
+    align-items: center;
+   padding: 40px;
+  border-radius: 10px;
+	 width: 100%;
+  margin: 0 auto;
 	}
-	}
+	}}
 	
